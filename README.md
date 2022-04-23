@@ -21,7 +21,7 @@ Skills: html / css / jQuery / Bootstrap / sass / php / laravel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasinislamkhan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tasinislamkhan&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tasinislamkhan)  
 
